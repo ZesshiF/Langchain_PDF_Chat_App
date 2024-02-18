@@ -1,0 +1,42 @@
+# Ignore compiled binaries and libraries
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Ignore logs and databases
+*.log
+*.sqlite
+*.sqlite3
+
+# Ignore Mac-specific files
+.DS_Store
+
+# Ignore system files
+Thumbs.db
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore environment-specific files
+.env
+
+# Ignore package-lock files
+package-lock.json
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment files
+venv/
